@@ -1,6 +1,7 @@
 body {
    background-color: black;
    color: lightgreen;
-p{ color: lightgreen;}
-th{ color: lightgreen;}
+   p{ color: lightgreen;
+   th{ color: lightgreen;
+   h1{ color: lightgreen;
 }
