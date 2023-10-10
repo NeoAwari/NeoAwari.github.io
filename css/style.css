@@ -1,10 +1,11 @@
-<html>
-<head>
+<body>
 <style>
-p {
-   color: red;
-   text-align: center
+body {
+   color: lightgreen;
+   font-size: 20px;
+   background-color: black;
 }
 </style>
+</body>
 </head>
 <body>
